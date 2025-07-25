@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D731AF1-0B86-447E-A607-E3A510A4ABCC}|Ruby_Cafe\\Ruby_Cafe.csproj|c:\\users\\abdul\\source\\repos\\ruby_cafe\\ruby_cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D731AF1-0B86-447E-A607-E3A510A4ABCC}|Ruby_Cafe\\Ruby_Cafe.csproj|solutionrelative:ruby_cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D731AF1-0B86-447E-A607-E3A510A4ABCC}|Ruby_Cafe\\Ruby_Cafe.csproj|c:\\users\\abdul\\source\\repos\\ruby_cafe\\ruby_cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D731AF1-0B86-447E-A607-E3A510A4ABCC}|Ruby_Cafe\\Ruby_Cafe.csproj|solutionrelative:ruby_cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D731AF1-0B86-447E-A607-E3A510A4ABCC}|Ruby_Cafe\\Ruby_Cafe.csproj|c:\\users\\abdul\\source\\repos\\ruby_cafe\\ruby_cafe\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6D731AF1-0B86-447E-A607-E3A510A4ABCC}|Ruby_Cafe\\Ruby_Cafe.csproj|solutionrelative:ruby_cafe\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D731AF1-0B86-447E-A607-E3A510A4ABCC}|Ruby_Cafe\\Ruby_Cafe.csproj|c:\\users\\abdul\\source\\repos\\ruby_cafe\\ruby_cafe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D731AF1-0B86-447E-A607-E3A510A4ABCC}|Ruby_Cafe\\Ruby_Cafe.csproj|solutionrelative:ruby_cafe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\Ruby_Cafe\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ruby_Cafe\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\Ruby_Cafe\\Form1.Designer.cs",
+              "RelativeToolTip": "Ruby_Cafe\\Form1.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAUwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:06:34.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\Ruby_Cafe\\Form1.cs",
+              "RelativeDocumentMoniker": "Ruby_Cafe\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\Ruby_Cafe\\Form1.cs",
+              "RelativeToolTip": "Ruby_Cafe\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:06:07.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\Ruby_Cafe\\Resource.resx",
+              "RelativeDocumentMoniker": "Ruby_Cafe\\Resource.resx",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\Ruby_Cafe\\Resource.resx",
+              "RelativeToolTip": "Ruby_Cafe\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-25T17:58:19.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\Ruby_Cafe\\Form1.cs",
+              "RelativeDocumentMoniker": "Ruby_Cafe\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Ruby_Cafe\\Ruby_Cafe\\Form1.cs [Design]",
+              "RelativeToolTip": "Ruby_Cafe\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:51:48.969Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
