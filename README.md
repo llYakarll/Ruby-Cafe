@@ -22,10 +22,10 @@
 
 ## 🚀 Çalıştırma | Run
 
-**TR:**  
+TR:
 Visual Studio ile projeyi açın → `F5` ile çalıştırın.
 
-**EN:**  
+EN:
 Open the project in Visual Studio → Press `F5` to run.
 
 ---
@@ -40,7 +40,7 @@ Open the project in Visual Studio → Press `F5` to run.
 
 ## 👨‍💻 Geliştirici | Developer
 
-**Adınız | Abdulbaki Yakar  
+Abdulbaki Yakar  
 GitHub: [github.com/kullaniciAdin](https://github.com/llYakarll)
 
 ---
