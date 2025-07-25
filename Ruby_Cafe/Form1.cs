@@ -18,7 +18,7 @@ namespace Ruby_Cafe
        
 
 
-        /* TOTAL PRİCE*/
+        /* TOTAL PRiCE*/
         int totalPrice = 0;
         public Form1()
         {
@@ -97,8 +97,8 @@ namespace Ruby_Cafe
                 //string discount = items.ToString([index]);
 
                 DialogResult result = MessageBox.Show(
-                    $"Tebrikler {itemNames[index]} ürünü için %50 indirim kazandınız :)",
-                    "Sürpriz İndirim",
+                    $"Tebrikler {itemNames[index]} Ã¼rÃ¼nÃ¼ iÃ§in %50 indirim kazandÃ½nÃ½z :)",
+                    "SÃ¼rpriz Ãndirim",
                     MessageBoxButtons.YesNo,
                     MessageBoxIcon.Question);
 
@@ -106,7 +106,7 @@ namespace Ruby_Cafe
                 bool discountRequested =result == DialogResult.Yes;
 
                 //if (discountRequested == true) {
-                //    MessageBox.Show("İndirimli Urunu Giriniz");
+                //    MessageBox.Show("Ãndirimli Urunu Giriniz");
                 //    int originalPrice = items[index];
                 //    int discountedPrice = originalPrice / 2;
 
