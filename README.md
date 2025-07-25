@@ -41,7 +41,7 @@ Open the project in Visual Studio → Press `F5` to run.
 ## 👨‍💻 Geliştirici | Developer
 
 Abdulbaki Yakar  
-GitHub: [github.com/kullaniciAdin](https://github.com/llYakarll)
+GitHub: [llYakarll](https://github.com/llYakarll)
 
 ---
 
